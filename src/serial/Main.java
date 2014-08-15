@@ -18,7 +18,7 @@ public class Main {
      */
     public static void main(String[] args) {
         
-        System.out.println("teste2");
+        System.out.println("teste3");
         
         Serial.portasDisponiveis();
         Serial s = new Serial("COM32",19200,8,1,0);
